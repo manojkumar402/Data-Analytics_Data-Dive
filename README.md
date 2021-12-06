@@ -10,6 +10,8 @@ A company’s HR department wants to predict whether some employees will leave t
 5.Logistic Regression 
 # Classification Results
 
+<img width="339" alt="Screenshot 2021-12-06 at 5 54 04 PM" src="https://user-images.githubusercontent.com/57716055/144845858-89c5cc77-d8ec-4cf7-b78c-786642812390.png">
 
+We have decided to use gradient boosting as it has the best overall accuracy 85% while comparing to all the other models while training.
 
 
